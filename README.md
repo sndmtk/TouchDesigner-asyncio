@@ -4,10 +4,11 @@ TDAsyncIO.tox is a Component for using the asyncio module in TouchDesigner. It r
 
 ## Usage
 
+![Parameters](https://drive.google.com/uc?export=view&id=1CQuFqiK7gqOEWgF1YVU6_9ejXxJ_GgWv)
+
 Parameters
  - Active - The Event Loop can run asynchronous tasks while 'Active' is enabled<br>
  - Cancel All Tasks - Cancel all tasks you created.<br><br>
-
 
 Code example
 
