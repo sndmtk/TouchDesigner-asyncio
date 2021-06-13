@@ -1,6 +1,6 @@
 # TouchDesigner-asyncio
 
-TDAsyncIO.tox is a Component for using the asyncio module in TouchDesigner without blocking the td's main thread by running the event loop only once after every frame. 
+TDAsyncIO.tox is a Component for using the asyncio module in TouchDesigner without blocking the TD's main thread by running the event loop only once after every frame. 
 
 ## Usage
 
